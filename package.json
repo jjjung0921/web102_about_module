@@ -2,7 +2,8 @@
   "name": "about",
   "version": "1.0.0",
   "description": "web102 about 모듈",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "repository": "https://github.com/jjjung0921/web102_about_module",
   "scripts": {
     "test": "exit 0",
     "build": "babel src -d dist"
