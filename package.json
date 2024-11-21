@@ -3,12 +3,9 @@
   "version": "1.0.0",
   "description": "web102 about 모듈",
   "main": "dist/index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jjjung0921/web102_about_module.git"
-  },
+  "repository": "https://github.com/jjjung0921/web102_about_module.git",
   "publishConfig": {
-    "@jjjung0921:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "test": "exit 0",
