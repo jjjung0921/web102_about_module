@@ -1,6 +1,6 @@
 {
   "name": "web102_about_module",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "web102 about 모듈",
   "main": "dist/index.js",
   "repository": {
